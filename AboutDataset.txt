@@ -1,0 +1,28 @@
+Columns dropped:
+    id
+    date
+    yr_built
+    yr_renovated
+    zipcode
+    lat
+    long
+
+Columns kept:
+    price
+    bedrooms
+    bathrooms
+    sqft_living
+    sqft_lot
+    floors
+    waterfront
+    view
+    condition
+    grade
+    sqft_above
+    sqft_basement
+    sqft_living15
+    sqft_lot15
+
+At last:
+    Columns: 14
+    Rows: 21597
